@@ -1,5 +1,9 @@
 # Gerenciador de Senhas em C
 
+## Aprendizados
+
+Este projeto permitiu colocar em prática conceitos de programação em C em um sistema com persistência de dados, além de explorar o funcionamento de operações XOR aplicadas à transformação de informações antes de seu armazenamento.
+
 Gerenciador de senhas desenvolvido em **C** para armazenar e gerenciar credenciais de diferentes serviços.
 
 O sistema utiliza **criptografia baseada em XOR** para proteger as senhas antes de armazená-las em arquivos, evitando que sejam mantidas diretamente em texto legível.
